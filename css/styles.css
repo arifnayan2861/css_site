@@ -1,0 +1,145 @@
+a {
+    color: #11999E;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 3.125rem auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.data {
+    margin-top: 1.25rem;
+}
+
+.top_container {
+    background-color: #EDD2F3;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom_container {
+    background-color: #66BFBF;
+    height: 150px;
+    width: auto;
+    margin-top: 45px;
+    padding-top: 45px;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom_cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.my_photo {
+    border-radius: 50%;
+    margin-top: 20px;
+    width: 20%;
+}
+
+.skill_row {
+    margin: 100px auto;
+    line-height: 2;
+    text-align: left;
+    width: 50%;
+}
+
+.skill_image {
+    border-radius: 50%;
+    float: left;
+    width: 25%;
+}
+
+.music {
+    float: right;
+    padding-left: 20px;
+}
+
+.computer {
+    padding-right: 20px;
+}
+
+.footer_link {
+    margin: 20px;
+    text-decoration: none;
+}
+
+.footer_link:hover {
+    color: #EAF6F6;
+}
+
+.credit {
+    padding-top: 35px;
+    color: #EAF6F6;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #84DFFF;
+    background-image: -webkit-linear-gradient(top, #84DFFF, #516BEB);
+    background-image: -moz-linear-gradient(top, #84DFFF, #516BEB);
+    background-image: -ms-linear-gradient(top, #84DFFF, #516BEB);
+    background-image: -o-linear-gradient(top, #84DFFF, #516BEB);
+    background-image: linear-gradient(to bottom, #84DFFF, #516BEB);
+    text-decoration: none;
+}
+
+.hit_me_up {
+    margin-bottom: 60px;
+}
+
+.boro_line {
+    margin: auto;
+    margin-bottom: 30px;
+    width: 50%;
+}
+
+.musician {
+    text-align: right;
+}
+
+.description {
+    text-align: justify;
+}
